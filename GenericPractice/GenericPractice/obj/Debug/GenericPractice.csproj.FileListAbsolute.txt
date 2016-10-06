@@ -1,0 +1,6 @@
+C:\Users\Van\Desktop\C# WPF basic concept\GenericPractice\GenericPractice\bin\Debug\GenericPractice.exe.config
+C:\Users\Van\Desktop\C# WPF basic concept\GenericPractice\GenericPractice\bin\Debug\GenericPractice.exe
+C:\Users\Van\Desktop\C# WPF basic concept\GenericPractice\GenericPractice\bin\Debug\GenericPractice.pdb
+C:\Users\Van\Desktop\C# WPF basic concept\GenericPractice\GenericPractice\obj\Debug\GenericPractice.csprojResolveAssemblyReference.cache
+C:\Users\Van\Desktop\C# WPF basic concept\GenericPractice\GenericPractice\obj\Debug\GenericPractice.exe
+C:\Users\Van\Desktop\C# WPF basic concept\GenericPractice\GenericPractice\obj\Debug\GenericPractice.pdb

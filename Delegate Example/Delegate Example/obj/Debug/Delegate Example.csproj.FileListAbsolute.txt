@@ -1,0 +1,1 @@
+C:\Users\Van\Desktop\C# WPF basic concept\Delegate Example\Delegate Example\bin\Debug\Delegate Example.exe.config

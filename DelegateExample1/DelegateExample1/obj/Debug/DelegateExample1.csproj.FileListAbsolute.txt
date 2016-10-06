@@ -1,0 +1,6 @@
+C:\Users\Van\Desktop\C# WPF basic concept\DelegateExample1\DelegateExample1\bin\Debug\DelegateExample1.exe.config
+C:\Users\Van\Desktop\C# WPF basic concept\DelegateExample1\DelegateExample1\bin\Debug\DelegateExample1.exe
+C:\Users\Van\Desktop\C# WPF basic concept\DelegateExample1\DelegateExample1\bin\Debug\DelegateExample1.pdb
+C:\Users\Van\Desktop\C# WPF basic concept\DelegateExample1\DelegateExample1\obj\Debug\DelegateExample1.csprojResolveAssemblyReference.cache
+C:\Users\Van\Desktop\C# WPF basic concept\DelegateExample1\DelegateExample1\obj\Debug\DelegateExample1.exe
+C:\Users\Van\Desktop\C# WPF basic concept\DelegateExample1\DelegateExample1\obj\Debug\DelegateExample1.pdb
